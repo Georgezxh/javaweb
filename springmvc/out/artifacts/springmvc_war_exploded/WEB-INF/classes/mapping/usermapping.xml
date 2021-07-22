@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="mapping.usermapping">
+    <select id="queryByName" parameterType="String" resultType="entity.User">
+        select *
+        from user
+        where username = #{username}
+    </select>
+    <insert id="reg" parameterType="entity.User">
+        insert into user(username,password)
+        values (#{username}, #{password})
+    </insert>
+    <!--    <update id="modifyName" parameterType="String">-->
+    <!--        update username-->
+    <!--        from user-->
+    <!--        where username = #{username}-->
+    <!--    </update>-->
+</mapper>

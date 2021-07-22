@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Main-Class: query.Test
+Class-Path: spring-web-5.2.3.RELEASE.jar spring-webmvc-5.2.3.RELEASE.jar
+  spring-instrument-5.2.3.RELEASE.jar spring-aspects-5.2.3.RELEASE.jar s
+ pring-context-support-5.2.3.RELEASE.jar spring-expression-5.2.3.RELEASE
+ .jar spring-aop-5.2.3.RELEASE.jar spring-jms-5.2.3.RELEASE.jar spring-o
+ xm-5.2.3.RELEASE.jar spring-context-5.2.3.RELEASE.jar spring-orm-5.2.3.
+ RELEASE.jar spring-test-5.2.3.RELEASE.jar spring-core-5.2.3.RELEASE.jar
+  commons-logging-1.2.jar spring-jdbc-5.2.3.RELEASE.jar aopalliance-1.0.
+ jar spring-tx-5.2.3.RELEASE.jar spring-beans-5.2.3.RELEASE.jar spring-m
+ essaging-5.2.3.RELEASE.jar javax.ejb.jar javax.jms.jar javax.servlet.ja
+ r mybatis-3.5.7.jar javax.resource.jar aopalliance-1.0.jar javax.annota
+ tion.jar javax.persistence.jar javax.servlet.jsp.jar javax.transaction.
+ jar commons-logging-1.2.jar javax.servlet.jsp.jstl.jar spring-tx-5.2.3.
+ RELEASE.jar spring-aop-5.2.3.RELEASE.jar spring-jms-5.2.3.RELEASE.jar s
+ pring-orm-5.2.3.RELEASE.jar spring-oxm-5.2.3.RELEASE.jar spring-web-5.2
+ .3.RELEASE.jar spring-core-5.2.3.RELEASE.jar spring-jdbc-5.2.3.RELEASE.
+ jar spring-test-5.2.3.RELEASE.jar spring-beans-5.2.3.RELEASE.jar mysql-
+ connector-java-8.0.25.jar spring-webmvc-5.2.3.RELEASE.jar spring-aspect
+ s-5.2.3.RELEASE.jar spring-context-5.2.3.RELEASE.jar spring-messaging-5
+ .2.3.RELEASE.jar spring-expression-5.2.3.RELEASE.jar spring-instrument-
+ 5.2.3.RELEASE.jar spring-context-support-5.2.3.RELEASE.jar mybatis-3.5.
+ 7.jar javax.annotation.jar javax.transaction.jar javax.servlet.jar java
+ x.resource.jar javax.ejb.jar javax.servlet.jsp.jar javax.jms.jar javax.
+ persistence.jar javax.servlet.jsp.jstl.jar mysql-connector-java-8.0.25.
+ jar
+
