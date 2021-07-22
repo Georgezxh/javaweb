@@ -1,2 +1,2 @@
-# javaweb
-login+register
+# javaweb：login+register
+SpringMVC+Mybatis+jsp/servlet
